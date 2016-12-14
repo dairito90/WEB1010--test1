@@ -1,0 +1,32 @@
+h1{
+  color:red;
+}
+
+#colleges{
+background-color: red;
+
+}
+
+ ul li {
+  list-style-type: none;
+}
+
+
+
+
+
+figure{
+
+display:inline-block;
+
+}
+
+figure img{
+max-width: 300px;
+margin-left: 20px;
+margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+
+
+}
